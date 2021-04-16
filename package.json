@@ -59,7 +59,7 @@
     "browser-request": "^0.3.3",
     "gfm.css": "^1.1.2",
     "highlight.js": "^9.13.1",
-    "jsrsasign": "^9.1.5",
+    "jsrsasign": "^10.2.0",
     "matrix-js-sdk": "9.1.0",
     "matrix-react-sdk": "3.8.0",
     "matrix-widget-api": "^0.1.0-beta.5",
